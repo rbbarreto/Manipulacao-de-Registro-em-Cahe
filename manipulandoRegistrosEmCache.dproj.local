@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/17 11:57:41.000.910,=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/17 12:00:28.000.646,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2021/03/17 12:00:28.000.646,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\ufrmPrincipal.pas</Transaction>
+    <Transaction>2021/03/17 12:00:47.000.905,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\manipulandoRegistrosEmCache.dproj</Transaction>
+    <Transaction>2021/03/17 12:00:57.000.157,=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Unit2.pas</Transaction>
+    <Transaction>2021/03/17 12:01:52.000.511,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Unit2.pas=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\frmClientDataSet.pas</Transaction>
+    <Transaction>2021/03/17 12:01:52.000.511,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Unit2.dfm=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\frmClientDataSet.dfm</Transaction>
+    <Transaction>2021/03/17 12:02:29.000.474,=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Unit1.pas</Transaction>
+    <Transaction>2021/03/17 12:03:13.000.513,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Unit1.pas=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Dm\uDmDados.pas</Transaction>
+    <Transaction>2021/03/17 12:03:13.000.513,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Unit1.dfm=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Dm\uDmDados.dfm</Transaction>
+    <Transaction>2021/03/21 21:54:09.752,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Manipulando registros em cache\Dm\uDmDados.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

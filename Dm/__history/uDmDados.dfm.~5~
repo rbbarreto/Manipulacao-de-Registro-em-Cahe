@@ -1,0 +1,12 @@
+object DmDados: TDmDados
+  OldCreateOrder = False
+  Height = 236
+  Width = 611
+  object FDConn: TFDConnection
+    Params.Strings = (
+      'ConnectionDef=DirCar')
+    LoginPrompt = False
+    Left = 56
+    Top = 48
+  end
+end
